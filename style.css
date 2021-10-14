@@ -1,0 +1,16 @@
+section {
+  padding-top: 5rem;
+}
+
+nav,
+.btn-success,
+footer {
+  background-color: #2b6777;
+}
+
+label,
+h1,
+.display-6,
+button {
+  font-family: "Noto Sans Display", sans-serif;
+}
